@@ -1,1 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Derrick Rose</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="rose">
+    <h1>Draft</h1>
+    <h2>Foi escolhido com primeira escolha do draft de 2010 como prospect da NBA</h2>
+    <img src="https://www.galesburg.com/gcdn/authoring/2008/06/27/NGRM/ghows-LG-579b3b73-7f89-4143-8354-7e2439234911-3ff1d1a0.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp" alt="img1">
+<a href="index2.html">2011</a>
 
+</body>
+</html>
