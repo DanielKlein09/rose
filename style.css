@@ -1,0 +1,37 @@
+.rose img{
+    width: 600px ;
+}
+.rose2 img{
+    width: 800px;
+}
+.rose3 img{
+    width: 800px;
+}
+.rose4 img {
+    width: 800px;
+}
+.rose {
+     background-color: black;
+     color: red;
+     text-align: center;
+     align-items: center;
+    border-color: aquamarine;
+    }
+    .rose2{
+        background-color: rgb(218, 18, 18);
+        color: rgb(192, 172, 60);
+        text-align: center;
+        align-items: center;
+    }
+    .rose3{
+        background-color: rgb(0, 112, 241);
+        color: rgb(212, 58, 11);
+        text-align: center;
+        align-items: center;
+    }
+    .rose4{
+        background-color: rgb(0, 112, 241);
+        color: rgb(212, 58, 11);
+        text-align: center;
+        align-items: center;
+    }
