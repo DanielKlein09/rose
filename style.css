@@ -35,3 +35,32 @@
         text-align: center;
         align-items: center;
     }
+
+.draft{
+    background-color: rgb(255, 255, 255);
+}
+
+a{
+    font-size: 50px;
+}
+.MVP{
+background-color: rgb(0, 0, 0);
+
+}
+.h2{
+background-color: yellow;
+}
+.dkc{
+    background-color: rgb(255, 255, 255);
+}
+.kcd{
+    background-color: rgb(0, 0, 0);
+}
+.dr{ 
+background-color: yellow;
+}
+.bls {
+    background-color: rgb(255, 255, 255);
+
+}
+.chic{ background-color: yellow;}
